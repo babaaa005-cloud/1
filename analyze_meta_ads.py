@@ -66,7 +66,6 @@ INSIGHTS_FIELDS = [
     "conversion_values",
     "purchase_roas",
     "objective",
-    "status",
 ]
 
 # ---------------------------------------------------------------------------

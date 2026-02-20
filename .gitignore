@@ -1,0 +1,21 @@
+# Secrets — ne jamais committer
+.env
+
+# Exports générés par le script
+meta_ads_export.csv
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# OS
+.DS_Store
+Thumbs.db
